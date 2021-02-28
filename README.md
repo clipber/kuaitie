@@ -2,8 +2,6 @@
 
 https://clipber.com
 
-## 招聘(北京) Web前端、Android高级工程师, 有意向者请发邮件
-
 ### 快贴下载: 
 
 #### Mac版本:
