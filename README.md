@@ -26,7 +26,7 @@ Android 6.0系统及以上(不支持平板)
 [Google Play下载](https://clipber.com/getplay) <br>
 [apk下载](https://clipber.com/getapk?from=github.com)
 
-#### Linux版本:
+## Linux版本:
 Ubuntu 20.04
 版本：1.0.0 Beta<br>
 [Linux快贴下载](https://blog.clipber.com/posts/ubuntu-2004-guide/) <br>
