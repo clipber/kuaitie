@@ -15,6 +15,7 @@ https://clipber.com
 适合win7及以上系统
 版本：2.1.15
 [Windows快贴下载](https://clipber.com/getwin)
+
 [Windows绿色版下载](https://clipber.com/getzip)
 
 #### iOS版本:
@@ -26,6 +27,7 @@ https://clipber.com
 Android 6.0系统及以上(不支持平板)
 版本：2.2.0
 [Google Play下载](https://clipber.com/getplay)
+
 [apk下载](https://clipber.com/getapk)
 
 #### Linux版本:
