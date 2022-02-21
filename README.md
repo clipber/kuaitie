@@ -1,4 +1,4 @@
-## 快贴BUG | 功能 | 建议 | 反馈
+## 快贴BUG | 功能 | 建议 | 反馈 | 下载
 
 https://home.clipber.com
 
