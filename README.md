@@ -10,7 +10,7 @@ https://home.clipber.com
 [Mac 快贴下载](https://clipber.com/getmac?from=github.com)
 
 ## Windows版本:
-适合win7及以上系统<br>
+适合Win10及以上系统<br>
 版本：2.2.0<br>
 [Windows快贴下载](https://clipber.com/getwin?from=github.com) <br>
 [Windows绿色版下载](https://clipber.com/getzip?from=github.com) <br>
