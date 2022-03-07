@@ -15,6 +15,8 @@ https://home.clipber.com
 [Windows快贴下载](https://clipber.com/getwin?from=github.com) <br>
 [Windows绿色版下载](https://clipber.com/getzip?from=github.com) <br>
 [Windows旧版本(2.1.15) 支持win7](https://dl.clipber.com/windows/copies_2_1_15.zip)
+[win7无法联网解决办法](https://blog.clipber.com/posts/win7/)
+
 
 
 ## iOS版本:
