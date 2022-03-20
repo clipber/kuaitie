@@ -26,7 +26,7 @@ https://home.clipber.com
 
 ## Android版本:
 Android 6.0系统及以上(不支持平板)<br>
-版本：3.0.2<br>
+版本：3.0.4<br>
 [Google Play下载](https://clipber.com/getplay) <br>
 [apk下载](https://clipber.com/getapk?from=github.com)
 
