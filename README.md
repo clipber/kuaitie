@@ -1,5 +1,6 @@
 ## 快贴BUG | 功能 | 建议 | 反馈 | 下载
 
+快贴主页:
 https://home.clipber.com
 
 ### 快贴下载: 
